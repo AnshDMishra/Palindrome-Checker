@@ -9,3 +9,8 @@ HTML, CSS & JavaScript
 
 # Live demo
 [PalindromeChecker](https://codepen.io/AnshDMishra/full/KKRLqMo)
+
+#
+
+#### Show some ❤️ by starring ⭐️ some of the repositories !!
+
