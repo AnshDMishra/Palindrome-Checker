@@ -7,7 +7,7 @@ HTML, CSS & JavaScript
 
 #
 
-# Live demo
+## Live demo
 [PalindromeChecker](https://codepen.io/AnshDMishra/full/KKRLqMo)
 
 #
